@@ -1,0 +1,4 @@
+# il collegamento contiene i percorsi del PC: si crea con crea_collegamento.bat
+*.lnk
+__pycache__/
+*.pyc
